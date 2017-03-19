@@ -1,2 +1,2 @@
-# viope_c
+# Viope Course
 C Programming Exercises
